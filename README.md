@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 
 🔭 I’m currently working on implementing an open-source IoT platform.   
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gjlee0802)](https://github.com/anuraghazra/github-readme-stats)
