@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-🔭 I’m currently working on implementing an open-source IoT platform.   
+- 🌱 I’m currently learning Kubernetes. 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gjlee0802)](https://github.com/anuraghazra/github-readme-stats)
