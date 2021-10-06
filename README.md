@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Kubernetes.   
+- 🌱  I'm taking a semester off. 군대체 복무를 위해 휴학 중입니다.
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gjlee0802)](https://github.com/anuraghazra/github-readme-stats)
