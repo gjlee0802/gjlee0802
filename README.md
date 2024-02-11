@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- C(언어) 리눅스 EXT2 파일시스템 개발  
+- C(언어) 리눅스 EXT2 파일시스템 개발 경험  
 - C++(언어) Depth Camera와 3D영상처리 관련 소프트웨어 개발, 아두이노 개발 경험  
 - Go(언어) 클린아키텍쳐 기반 웹서버 / API 개발 경험  
 - Swift(언어) SwiftUI를 활용하여 VPN 관련 iOS/macOS 앱 개발 경험  
