@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 - C(언어) 리눅스 EXT2 파일시스템 시뮬레이터 개발 경험  
 - C++(언어) Depth Camera와 PointCloudLibrary를 활용한 손동작 인터페이스 SW 개발, 아두이노 개발 경험  
 - Go(언어) 클린아키텍쳐 기반 gin이나 echo 프레임워크 활용한 웹서버 / API 개발 경험  
-- Swift(언어) SwiftUI를 활용하여 VPN 관련 iOS/macOS 앱 개발 경험  
-- Dart(언어) Flutter을 활용하여 VPN 관련 크로스 플랫폼 앱(Android, Windows) 개발 경험  
+- Swift(언어) SwiftUI를 활용하여 VPN 관련 앱(iOS/macOS) 개발 경험  
+- Dart(언어) Flutter을 활용하여 VPN 관련 크로스 플랫폼 앱(Android/Windows) 개발 경험  
 - Python(언어) Lora 통신 개발 경험
 - ELK(Elasticsearch, Logstash, Kibana) 스택 활용, Logstash 파이프라인 생성 API 서버 개발 경험  
 - NCLab(네트워크 컴퓨팅 연구실) 학부생 인턴(2020.01 ~ 2021.06) 경험  
@@ -38,4 +38,4 @@ Here are some ideas to get you started:
 - 2021년 대학교 3학년 1학기 마치고 군휴학
 - 2021년 산업기능요원 군대체 복무 시작
 - 2023년 산업기능요원 군대체 복무 종료
-- 2024년 대학교 엇복학 예정
+- 2024년 3월 대학교 복학 ~
