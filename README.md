@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - Go(언어) 클린아키텍쳐 기반 gin이나 echo 프레임워크 활용한 웹서버 / API 개발 경험  
 - Swift(언어) SwiftUI를 활용하여 VPN 관련 앱(iOS/macOS) 개발 경험  
 - Dart(언어) Flutter을 활용하여 VPN 관련 크로스 플랫폼 앱(Android/Windows) 개발 경험  
-- Python(언어) Lora 통신 개발 경험
+- Python(언어) LoraWAN 통신을 활용한 Smart Park IoT 프로젝트 경험
 - ELK(Elasticsearch, Logstash, Kibana) 스택 활용, Logstash 파이프라인 생성 API 서버 개발 경험  
 - NCLab(네트워크 컴퓨팅 연구실) 학부생 인턴(2020.01 ~ 2021.06) 경험  
 - 클라우드브릭(주)에서 (2021년 8월 11일 ~ 2023년 10월) 개발직(산업기능요원 군대체 복무) 근무 경험  
