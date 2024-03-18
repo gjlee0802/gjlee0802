@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+HCI, IoT, AI 분야에 관심을 갖고 있습니다.  
+항상 성장하고 발전하기 위해 노력하고 있는 대학생입니다.  
+협업 기회나 함께 진행하고 싶은 프로젝트가 있다면 언제든지 연락주세요. 감사합니다.  
+
 <!--
 **gjlee0802/gjlee0802** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
