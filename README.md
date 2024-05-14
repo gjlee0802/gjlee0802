@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - **[ELK(Elasticsearch, Logstash, Kibana) 스택](https://github.com/gjlee0802/ElasticStack-Kafka-Docker-Study)** 활용, Logstash 파이프라인 생성/관리 API 서버 개발 경험
 
 ### Work experience
-- Soongsil University NCLab(네트워크 컴퓨팅 연구실, Prof Kyusik Chung) 학부생 인턴 경험 (2020.01 ~ 2021.06)  
+- Soongsil University NCLab(네트워크 컴퓨팅 연구실, Under Prof. Kyusik Chung) 학부생 인턴 경험 (2020.01 ~ 2021.06)  
 - 클라우드브릭(주)에서 개발직(산업기능요원 군대체 복무) 근무 경험 (2021.08.11 ~ 2023.10.31)
 
 ### Awards
