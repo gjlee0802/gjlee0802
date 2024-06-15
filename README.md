@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 | **App (iOS/macOS) Development** for VPN using Flutter | Swift | 2023 |
 | **Cross-Platform App (Android/Windows) Development** for VPN using SwiftUI | Dart | 2023 |
 | **[ELK (Elasticsearch, Logstash, Kibana) Stack](https://github.com/gjlee0802/ElasticStack-Kafka-Docker-Study)** - Logstash pipeline creation/management API server development | - | 2023~ |
-| Data Science Project: Predicting glucose levels with data collected by non-invasive wearable device | Python | 2024 |
+| Data Science Project: [Predicting glucose levels with data collected by non-invasive wearable device](https://github.com/gjlee0802/engineering-digital-biomarkers) | Python | 2024 |
 
 ### Research Intern / Work experience
 |Date|Organization|Position|Description|
