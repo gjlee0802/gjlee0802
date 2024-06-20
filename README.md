@@ -30,13 +30,14 @@ Here are some ideas to get you started:
 | **Cross-Platform App Development** for VPN using **Flutter** (Android/Windows) | Dart | 2023 |
 | **App Development** for VPN using **SwiftUI** (iOS/MacOS) | Swift | 2023 |
 | **[ELK (Elasticsearch, Logstash, Kibana) Stack](https://github.com/gjlee0802/ElasticStack-Kafka-Docker-Study)** - Logstash pipeline creation/management API server development | - | 2023~ |
-| Data Science Project: [Predicting glucose levels with data collected by non-invasive wearable device](https://github.com/gjlee0802/engineering-digital-biomarkers) | Python | 2024 |
+| Data Science Project: [**Predicting glucose levels** with data collected by non-invasive wearable device](https://github.com/gjlee0802/engineering-digital-biomarkers) | Python | 2024 |
 
 ### Research Intern / Work experience
 |Date|Organization|Position|Description|
 |----|------------|--------|-----------|
-|2020.01 ~ 2021.06|Soongsil University NCLab|Undergraduate Intern|Network Computing Lab, Under Prof. Kyusik Chung|
+|2020.01 ~ 2021.06|Soongsil University NCLab|Undergraduate Intern|Network Computing Lab, Advised by Prof. Kyusik Chung|
 |2021.08.11 ~ 2023.10.31|클라우드브릭(주)|Development position|Alternative Military Service as an Industrial Technical Personnel  (산업기능요원 군대체 복무)|
+|2024.07.01 ~ 2024.08.23|KAIST ICLab|Undergraduate Intern|Interactive Computing Lab, Advised by Prof. Uichin Lee (8주 수행 예정)|
 
 ### Awards
 |Award|Organization|Date|
