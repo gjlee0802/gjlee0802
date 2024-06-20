@@ -52,4 +52,4 @@ Here are some ideas to get you started:
 - **2021 (Spring)**: Completed 5 semesters
 - **2021 (Fall)**: Took a leave of absence for military service
 - **2021 - 2023**: Completed Alternative Military Service as an Industrial Technical Personnel
-- **2024 (March)**: Resumed studies at Soongsil University (6th semester ~ )
+- **2024 (March)**: Resumed studies at Soongsil University (6th semester: 3rd grade)
