@@ -1,6 +1,6 @@
 ### Hi there 👋
 I am an undergraduate student eager to learn.  
-I have a strong interest in HCI, IoT, and AI.  
+I have a strong interest in **HCI, IoT, and AI**.  
 Feel free to contact me for collaboration opportunities or projects you would like to work on together.  
 
 <!--
