@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 |----|------------|--------|-----------|
 |2020.01 ~ 2021.06|Soongsil University NCLab|Undergraduate Intern|Network Computing Lab, Advised by Prof. Kyusik Chung|
 |2021.08.11 ~ 2023.10.31|클라우드브릭(주)|Development position|Alternative Military Service as an Industrial Technical Personnel  (산업기능요원 군대체 복무)|
-|2024.07.01 ~ 2024.08.23|KAIST ICLab|Undergraduate Intern|Interactive Computing Lab, Advised by Prof. Uichin Lee (8주 수행 예정)|
+|2024.07.01 ~ 2024.08.23|KAIST ICLab|Undergraduate Intern|Interactive Computing Lab, Advised by Prof. Uichin Lee|
 
 ### Awards
 |Award|Organization|Date|
