@@ -19,33 +19,33 @@ Here are some ideas to get you started:
 -->
 
 
-### Experience
+### Projects
 
 | Project | Language | Year |
 |---------|----------|------|
-| Linux **[EXT2 File System Simulator](https://github.com/gjlee0802/EXT2_File_System)** | C | 2021 |
-| **[LoraWAN](https://github.com/gjlee0802/toiot-lora-gateway-driver/tree/main) Low-Power Long-Range Sensor Network** for Smart Park **[IoT Project](http://www.ntrexgo.com/archives/40437)** | Python, CPP | 2021 |
-| **[Hand Gesture HCI Project](https://github.com/gjlee0802/3d_interact/tree/master)** | CPP | 2019 |
-| **Web Server / API Development** using gin or echo framework based on [Clean Architecture](https://github.com/gjlee0802/web-tuto-with-gin/tree/v3) | Go | 2021~ |
+| Data Science Project: [**Predicting glucose levels** with data collected by non-invasive wearable device](https://github.com/gjlee0802/engineering-digital-biomarkers) | Python | 2024 |
+| **[ELK (Elasticsearch, Logstash, Kibana) Stack](https://github.com/gjlee0802/ElasticStack-Kafka-Docker-Study)** - Logstash pipeline creation/management API server development | - | 2023~ |
 | **Cross-Platform App Development** for VPN using **Flutter** (Android/Windows) | Dart | 2023 |
 | **App Development** for VPN using **SwiftUI** (iOS/MacOS) | Swift | 2023 |
-| **[ELK (Elasticsearch, Logstash, Kibana) Stack](https://github.com/gjlee0802/ElasticStack-Kafka-Docker-Study)** - Logstash pipeline creation/management API server development | - | 2023~ |
-| Data Science Project: [**Predicting glucose levels** with data collected by non-invasive wearable device](https://github.com/gjlee0802/engineering-digital-biomarkers) | Python | 2024 |
+| **Web Server / API Development** using gin or echo framework based on [Clean Architecture](https://github.com/gjlee0802/web-tuto-with-gin/tree/v3) | Go | 2021~ |
+| **[LoraWAN](https://github.com/gjlee0802/toiot-lora-gateway-driver/tree/main) Low-Power Long-Range Sensor Network** for Smart Park **[IoT Project](http://www.ntrexgo.com/archives/40437)** | Python, CPP | 2021 |
+| Linux **[EXT2 File System Simulator](https://github.com/gjlee0802/EXT2_File_System)** | C | 2021 |
+| **[Hand Gesture HCI Project](https://github.com/gjlee0802/3d_interact/tree/master)** | CPP | 2019 |
 
-### Research Intern / Work experience
+### Research Intern / Work Experiences
 |Date|Organization|Position|Description|
 |----|------------|--------|-----------|
-|2020.01 ~ 2021.06|Soongsil University NCLab|Undergraduate Intern|Network Computing Lab, Advised by Prof. Kyusik Chung|
-|2021.08.11 ~ 2023.10.31|클라우드브릭(주)|Development position|Alternative Military Service as an Industrial Technical Personnel  (산업기능요원 군대체 복무)|
-|2024.07.01 ~ 2024.08.23|KAIST ICLab|Undergraduate Intern|Interactive Computing Lab, Advised by Prof. Uichin Lee|
+|2024.07.01 ~ 2024.08.23|**KAIST ICLab**|Undergraduate Intern|Interactive Computing Lab, Advised by Prof. Uichin Lee|
+|2021.08.11 ~ 2023.10.31|**클라우드브릭(주)**|Development position|Alternative Military Service as an Industrial Technical Personnel  (산업기능요원 군대체 복무)|
+|2020.01 ~ 2021.06|**Soongsil University NCLab**|Undergraduate Intern|Network Computing Lab, Advised by Prof. Kyusik Chung|
 
 ### Awards
 |Award|Organization|Date|
 |-----|------------|----|
-|파이썬 경진대회-최우수상|숭실대학교|2019.05|
-|스마트 시스템 경진대회-장려상|스마트시스템소프트웨어학과|2019.10|
+|2021 ICT 융합 프로젝트 공모전-**최우수상**|디바이스마트|2021.05|
 |소프트웨어 공모전-장려상|소프트웨어학부|2019.11|
-|2021 ICT 융합 프로젝트 공모전-최우수상|디바이스마트|2021.05|
+|스마트 시스템 경진대회-장려상|스마트시스템소프트웨어학과|2019.10|
+|파이썬 경진대회-**최우수상**|숭실대학교|2019.05|
 
 ### Chronological Timeline
 - **2019**: Enrolled in Soongsil University
