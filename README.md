@@ -18,6 +18,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Research Intern / Work Experiences
+|Date|Organization|Position|Description|
+|----|------------|--------|-----------|
+|2025.01.02 ~ 2025.02.28 (scheduled)|**Seoul National University CCLab**|Undergraduate Intern|Cognitive Computing Lab, ~TODO~|
+|2024.07.01 ~ 2024.08.23|**KAIST ICLab**|Undergraduate Intern|Interactive Computing Lab, Advised by Prof. Uichin Lee|
+|2021.08.11 ~ 2023.10.31|**클라우드브릭(주)**|Development position|Alternative Military Service as an Industrial Technical Personnel  (산업기능요원 군대체 복무)|
+|2020.01 ~ 2021.06|**Soongsil University NCLab**|Undergraduate Intern|Network Computing Lab, Advised by Prof. Kyusik Chung|
 
 ### Projects
 
@@ -31,13 +38,6 @@ Here are some ideas to get you started:
 | **[LoraWAN](https://github.com/gjlee0802/toiot-lora-gateway-driver/tree/main) Low-Power Long-Range Sensor Network** for Smart Park **[IoT Project](http://www.ntrexgo.com/archives/40437)** | Python, CPP | 2021 |
 | Linux **[EXT2 File System Simulator](https://github.com/gjlee0802/EXT2_File_System)** | C | 2021 |
 | **[Hand Gesture HCI Project](https://github.com/gjlee0802/3d_interact/tree/master)** | CPP | 2019 |
-
-### Research Intern / Work Experiences
-|Date|Organization|Position|Description|
-|----|------------|--------|-----------|
-|2024.07.01 ~ 2024.08.23|**KAIST ICLab**|Undergraduate Intern|Interactive Computing Lab, Advised by Prof. Uichin Lee|
-|2021.08.11 ~ 2023.10.31|**클라우드브릭(주)**|Development position|Alternative Military Service as an Industrial Technical Personnel  (산업기능요원 군대체 복무)|
-|2020.01 ~ 2021.06|**Soongsil University NCLab**|Undergraduate Intern|Network Computing Lab, Advised by Prof. Kyusik Chung|
 
 ### Awards
 |Award|Organization|Date|
