@@ -46,10 +46,3 @@ Here are some ideas to get you started:
 |소프트웨어 공모전-장려상|소프트웨어학부|2019.11|
 |스마트 시스템 경진대회-장려상|스마트시스템소프트웨어학과|2019.10|
 |파이썬 경진대회-**최우수상**|숭실대학교|2019.05|
-
-### Chronological Timeline
-- **2019**: Enrolled in Soongsil University
-- **2021 (Spring)**: Completed 5 semesters
-- **2021 (Fall)**: Took a leave of absence for military service
-- **2021 - 2023**: Completed Alternative Military Service as an Industrial Technical Personnel
-- **2024 (March)**: Resumed studies at Soongsil University (6th semester: 3rd grade)
