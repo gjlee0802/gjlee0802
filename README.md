@@ -3,6 +3,8 @@ I am an undergraduate student eager to learn.
 I have a strong interest in **HCI, IoT, and AI**.  
 Feel free to contact me for collaboration opportunities or projects you would like to work on together.  
 
+My [**Resume/CV**](https://docs.google.com/document/d/1Jur3RpNdH667zqWM_KqqynhnR-LW-a00QLYJUvsBdS8/edit?usp=sharing)
+
 <!--
 **gjlee0802/gjlee0802** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
