@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Research Intern / Work Experiences
+### Research Intern / Work Experience
 |Date|Organization|Position|Description|
 |----|------------|--------|-----------|
-|2025.01.02 ~ 2025.02.28 (scheduled)|**Seoul National University CCLab**|Undergraduate Intern|Cognitive Computing Lab, ~TODO~|
+|2025.01.02 ~ 2025.02.28 (scheduled)|**Seoul National University CCLab**|Undergraduate Intern|Cognitive Computing Lab, Expected ~TODO~|
 |2024.07.01 ~ 2024.08.23|**KAIST ICLab**|Undergraduate Intern|Interactive Computing Lab, Advised by Prof. Uichin Lee|
 |2021.08.11 ~ 2023.10.31|**클라우드브릭(주)**|Development position|Alternative Military Service as an Industrial Technical Personnel  (산업기능요원 군대체 복무)|
 |2020.01 ~ 2021.06|**Soongsil University NCLab**|Undergraduate Intern|Network Computing Lab, Advised by Prof. Kyusik Chung|
