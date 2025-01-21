@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 |----|------------|--------|-----------|
 |2024.12.30 ~ 2025.02.28 (scheduled)|**Seoul National University CCLab**|Research Intern|Cognitive Computing Lab, Expected ~TODO~|
 |2024.07.01 ~ 2024.08.23|**KAIST ICLab**|Research Intern|Interactive Computing Lab, Advised by Prof. Uichin Lee|
-|2021.08.11 ~ 2023.10.31|**클라우드브릭(주)**|Backend & Mobile Developer|Alternative Military Service as an Industrial Technical Personnel  (산업기능요원 군대체 복무)|
+|2021.08.11 ~ 2023.10.31|**Cloudbric.inc**|Backend & Mobile Developer|Alternative Military Service as an Industrial Technical Personnel  (산업기능요원 군대체 복무)|
 |2020.01 ~ 2021.06|**Soongsil University NCLab**|Undergraduate Research Intern|Network Computing Lab, Advised by Prof. Kyusik Chung|
 
 ### Projects
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 ### Awards
 |Award|Organization|Date|
 |-----|------------|----|
-|2021 ICT 융합 프로젝트 공모전-**최우수상**|디바이스마트|2021.05|
+|2021 ICT 융합 프로젝트 공모전-**최우수상**|NTREX(디바이스마트)|2021.05|
 |소프트웨어 공모전-장려상|소프트웨어학부|2019.11|
 |스마트 시스템 경진대회-장려상|스마트시스템소프트웨어학과|2019.10|
 |파이썬 경진대회-**최우수상**|숭실대학교|2019.05|
