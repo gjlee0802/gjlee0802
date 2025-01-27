@@ -1,6 +1,7 @@
 ## :wave:Hi there, I'm Gyeongju Lee.
-I am an undergraduate student eager to learn.  
+I am an **undergraduate student(senior)** eager to learn.  
 I have a strong interest in **HCI, IoT, and AI**.  
+I have pursued a **wide range of experiences and interests** over the years, developing a deep interest in the field of computers **from a young age** and **consistently** studying **various** computing technologies and programming.  
 Feel free to contact me for collaboration opportunities or projects you would like to work on together.  
 
 :star2:My [**Resume/CV**](https://docs.google.com/document/d/1Jur3RpNdH667zqWM_KqqynhnR-LW-a00QLYJUvsBdS8/edit?usp=sharing)
