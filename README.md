@@ -1,9 +1,9 @@
-### Hi there 👋
+## :wave:Hi there, I'm Gyeongju Lee.
 I am an undergraduate student eager to learn.  
 I have a strong interest in **HCI, IoT, and AI**.  
 Feel free to contact me for collaboration opportunities or projects you would like to work on together.  
 
-My [**Resume/CV**](https://docs.google.com/document/d/1Jur3RpNdH667zqWM_KqqynhnR-LW-a00QLYJUvsBdS8/edit?usp=sharing)
+:star2:My [**Resume/CV**](https://docs.google.com/document/d/1Jur3RpNdH667zqWM_KqqynhnR-LW-a00QLYJUvsBdS8/edit?usp=sharing)
 
 <!--
 **gjlee0802/gjlee0802** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Research Intern / Work Experience
+### :briefcase:Research Intern / Work Experience
 |Date|Organization|Position|Description|
 |----|------------|--------|-----------|
 |2024.12.30 ~ 2025.02.28 (scheduled)|**Seoul National University CCLab**|Research Intern|Cognitive Computing Lab, Expected ~TODO~|
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 |2021.08.11 ~ 2023.10.31|**Cloudbric.inc**|Backend & Mobile Developer|Alternative Military Service as an Industrial Technical Personnel  (산업기능요원 군대체 복무)|
 |2020.01 ~ 2021.06|**Soongsil University NCLab**|Undergraduate Research Intern|Network Computing Lab, Advised by Prof. Kyusik Chung|
 
-### Projects
+### :bulb:Projects
 
 | Project | Language | Year |
 |---------|----------|------|
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 | Linux **[EXT2 File System Simulator](https://github.com/gjlee0802/EXT2_File_System)** | C | 2021 |
 | **[Hand Gesture HCI Project](https://github.com/gjlee0802/3d_interact/tree/master)** | CPP | 2019 |
 
-### Awards
+### :trophy:Awards
 |Award|Organization|Date|
 |-----|------------|----|
 |2021 ICT 융합 프로젝트 공모전-**최우수상**|NTREX(디바이스마트)|2021.05|
