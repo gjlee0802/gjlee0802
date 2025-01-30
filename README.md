@@ -2,7 +2,7 @@
 I am an **undergraduate student(senior)** eager to learn.  
 I have a strong interest in **HCI, IoT, and AI**.  
 I have pursued a **wide range of experiences and interests** over the years, developing a deep interest in the field of computers **from a young age** and **consistently** studying **various** computing technologies and programming.  
-Feel free to contact me for collaboration opportunities or projects you would like to work on together.  
+Feel free to contact me(gjlee0802 at naver.com) for collaboration opportunities or projects you would like to work on together.  
 
 :star2:My [**Resume/CV**](https://docs.google.com/document/d/1Jur3RpNdH667zqWM_KqqynhnR-LW-a00QLYJUvsBdS8/edit?usp=sharing)
 
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ### :briefcase:Research Intern / Work Experience
 |Date|Organization|Position|Description|
 |----|------------|--------|-----------|
-|2024.12.30 ~ 2025.02.28 (scheduled)|**Seoul National University CCLab**|Research Intern|Cognitive Computing Lab, Expected ~TODO~|
+|2024.12.30 ~ 2025.02.28 (On going)|**Seoul National University CCLab**|Research Intern|Cognitive Computing Lab, ~On Going~|
 |2024.07.01 ~ 2024.08.23|**KAIST ICLab**|Research Intern|Interactive Computing Lab, Advised by Prof. Uichin Lee|
 |2021.08.11 ~ 2023.10.31|**Cloudbric.inc**|Backend & Mobile Developer|Alternative Military Service as an Industrial Technical Personnel  (산업기능요원 군대체 복무)|
 |2020.01 ~ 2021.06|**Soongsil University NCLab**|Undergraduate Research Intern|Network Computing Lab, Advised by Prof. Kyusik Chung|
