@@ -52,3 +52,4 @@ Here are some ideas to get you started:
 ### :pushpin:Things I still need to learn:
 * How to review research from a high-level perspective (focusing on the key points)
 * How to organize and categorize the reviewed research in clear tables
+* How to explain and organize things in the simplest way possible
