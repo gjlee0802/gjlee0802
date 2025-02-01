@@ -4,7 +4,7 @@ I have a strong interest in **HCI, IoT, and AI**.
 I have pursued a **wide range of experiences and interests** over the years, developing a deep interest in the field of computers **from a young age** and **consistently** studying **various** computing technologies and programming.  
 Feel free to contact me(gjlee0802 at naver.com) for collaboration opportunities or projects you would like to work on together.  
 
-:star2:My [**Resume/CV**](https://docs.google.com/document/d/1Jur3RpNdH667zqWM_KqqynhnR-LW-a00QLYJUvsBdS8/edit?usp=sharing)
+:page_with_curl:My [**Resume/CV**](https://docs.google.com/document/d/1Jur3RpNdH667zqWM_KqqynhnR-LW-a00QLYJUvsBdS8/edit?usp=sharing)
 
 <!--
 **gjlee0802/gjlee0802** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -48,3 +48,7 @@ Here are some ideas to get you started:
 |소프트웨어 공모전-장려상|소프트웨어학부|2019.11|
 |스마트 시스템 경진대회-장려상|스마트시스템소프트웨어학과|2019.10|
 |파이썬 경진대회-**최우수상**|숭실대학교|2019.05|
+
+### :pushpin:Things I still need to learn:
+* How to review research from a high-level perspective (focusing on the key points)
+* How to organize and categorize the reviewed research in clear tables
