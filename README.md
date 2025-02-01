@@ -1,6 +1,6 @@
 ## :wave:Hi there, I'm Gyeongju Lee.
 I am an **undergraduate student(senior)** eager to learn.  
-I have a strong interest in **HCI, IoT, and AI**.  
+I have a strong interest in **HCI, IoT, and AI (especially HAI, LLM).**  
 I have pursued a **wide range of experiences and interests** over the years, developing a deep interest in the field of computers **from a young age** and **consistently** studying **various** computing technologies and programming.  
 Feel free to contact me(gjlee0802 at naver.com) for collaboration opportunities or projects you would like to work on together.  
 
