@@ -24,10 +24,10 @@ Here are some ideas to get you started:
 ### :briefcase:Research Intern / Work Experience
 |Date|Organization|Position|Description|
 |----|------------|--------|-----------|
-|2024.12.30 ~ 2025.02.28 (Ongoing)|**Seoul National University CCLab**|Research Intern|Cognitive Computing Lab, ~Ongoing~|
-|2024.07.01 ~ 2024.08.23|**KAIST ICLab**|Research Intern|Interactive Computing Lab, Advised by Prof. Uichin Lee|
+|2024.12.30 ~ 2025.02.28 (Ongoing)|**Seoul National University CCLab**|Research Intern (Winter)|Cognitive Computing Lab|
+|2024.07.01 ~ 2024.08.23|**KAIST ICLab**|Research Intern (Summer)|Interactive Computing Lab (Mentor: Prof. Uichin Lee)|
 |2021.08.11 ~ 2023.10.31|**Cloudbric.inc**|Backend & Mobile Developer|Alternative Military Service as an Industrial Technical Personnel  (산업기능요원 군대체 복무)|
-|2020.01 ~ 2021.06|**Soongsil University NCLab**|Undergraduate Research Intern|Network Computing Lab, Advised by Prof. Kyusik Chung|
+|2020.01 ~ 2021.06|**Soongsil University NCLab**|Undergraduate Research Intern|Network Computing Lab (Mentor: Prof. Kyusik Chung)|
 
 ### :bulb:Projects
 
