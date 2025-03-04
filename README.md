@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 |----|------------|--------|-----------|
 |2024.12.30 ~ 2025.02.28|**Seoul National University CCLab**|Research Intern (Winter)|Cognitive Computing Lab (Prof. Gahgene Gweon)|
 |2024.07.01 ~ 2024.08.23|**KAIST ICLab**|Research Intern (Summer)|Interactive Computing Lab (Mentor: Prof. Uichin Lee)|
-|2021.08.11 ~ 2023.10.31|**Cloudbric.inc**|Backend & Mobile Developer|Alternative Military Service as an Industrial Technical Personnel  (산업기능요원 군대체 복무)|
+|2021.08.11 ~ 2023.10.31|**Cloudbric.inc & PentaSecurity.inc**|Backend & Mobile Developer|Alternative Military Service as an Industrial Technical Personnel  (산업기능요원 군대체 복무)|
 |2020.01 ~ 2021.06|**Soongsil University NCLab**|Undergraduate Research Intern|Network Computing Lab (Mentor: Prof. Kyusik Chung)|
 
 ### :bulb:Projects
