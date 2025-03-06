@@ -5,7 +5,6 @@ I have pursued a **wide range of experiences and interests** over the years, dev
 Feel free to contact me(gjlee0802 at naver.com) for collaboration opportunities or projects you would like to work on together.  
 
 :page_with_curl:My [**Resume/CV**](https://docs.google.com/document/d/1Jur3RpNdH667zqWM_KqqynhnR-LW-a00QLYJUvsBdS8/edit?usp=sharing)  
-:open_file_folder:My [**Portfolio**](https://docs.google.com/presentation/d/1C-kVsw5i_B37y9MsYYLr1DwXvuLtCV6QMb42ZD1xYBs/edit?usp=sharing)  
 
 <!--
 **gjlee0802/gjlee0802** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
