@@ -40,6 +40,12 @@ Here are some ideas to get you started:
 </details>
 
 <details>
+ <summary>:open_file_folder:	[2019.03 ~ 2025.08] Portfolio</summary> 
+ 
+ :open_file_folder:My [Portfolio](https://docs.google.com/presentation/d/1C-kVsw5i_B37y9MsYYLr1DwXvuLtCV6QMb42ZD1xYBs/edit?usp=sharing)  
+</details>
+
+<details>
  <summary>:trophy: [2019.03 ~ 2025.08] Awards</summary> 
  
 |Award|Organization|Date|
