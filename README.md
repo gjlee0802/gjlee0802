@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 
 |Date|Education|
 |----|------------| 
-|2025.09 ~ |**M.S. in School of Computing, KAIST**|
-|2019.03 ~ 2025.08|**B.S. in School of AI Convergence, SSU**|
+|2025.09 ~ |**M.S. in Computer Science, KAIST**|
+|2019.03 ~ 2025.08|**B.S. in AI Convergence, SSU**|
 
 <details>
  <summary>:briefcase: [2019.03 ~ 2025.08] Research Intern / Work Experience</summary> 
