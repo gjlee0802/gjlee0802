@@ -1,5 +1,4 @@
 ## :wave:Hi there, I'm Gyeongju Lee.
-I’m a senior undergraduate student and will begin my M.S. at KAIST in September 2025.  
 My research interests are in Human-Computer Interaction (HCI) and Mobile & Ubiquitous Computing.  
 
 <!--
