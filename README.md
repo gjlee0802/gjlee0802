@@ -55,13 +55,3 @@ Here are some ideas to get you started:
 |스마트 시스템 경진대회-장려상|스마트시스템소프트웨어학과|2019.10|
 |파이썬 경진대회-**최우수상**|숭실대학교|2019.05|
 </details>
-
-<details>
- <summary>:pushpin:Things I still need to learn</summary> 
-
-* **How to review** research from a **high-level perspective** (focusing on the **key points**)
-* **How to organize and categorize** the reviewed research in clear tables
-* **How to explain and organize** things in the **simplest way** possible
-* **How to design** interesting **hypotheses** (before experimentation)
-  * Ask people who see hypotheses from a completely new perspective and observe whether they find it interesting!
-</details>
